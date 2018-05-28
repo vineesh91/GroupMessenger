@@ -1,0 +1,4 @@
+#Tue Mar 13 09:18:14 EDT 2018
+base.0=D\:\\Downloads\\vineeshr@buffalo.edu_1_GroupMessenger2\\GroupMessenger2-vineeshravindran\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
